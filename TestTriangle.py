@@ -34,6 +34,9 @@ class TestTriangles(unittest.TestCase):
     def testRightTriangle2(self):
         self.assertEqual(classifyTriangle(50, 30, 40), 'Right')
 
+    def testRightTriangle3(self):
+        self.assertEqual(classifyTriangle(3, 5, 4), 'Right')
+
     def testNotTriangle1(self):
         self.assertEqual(classifyTriangle(1, 1, 2), 'NotATriangle')
 
@@ -42,6 +45,12 @@ class TestTriangles(unittest.TestCase):
 
     def testIsoceles1(self):
         self.assertEqual(classifyTriangle(2, 2, 3), 'Isoceles')
+
+    def testIsoceles2(self):
+        self.assertEqual(classifyTriangle(3, 2, 2), 'Isoceles')
+
+    def testIsoceles3(self):
+        self.assertEqual(classifyTriangle(2, 3, 2), 'Isoceles')
 
 
     def testEquilateral1(self):
