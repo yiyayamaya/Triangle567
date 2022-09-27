@@ -43,5 +43,24 @@ ___
 | Tests Planned  | 10         | 10        |
 | Tests Executed  | 10         | 10        |
 | Tests Passed  | 2          | 10        |
-| Defects Found | 5          | 0         |
-| Defects Fixed | 0          | 5         |
+| Defects Found | 6          | 0         |
+| Defects Fixed | 0          | 6         |
+
+
+
+___
+
+Report
+
+1. Assignment Description: test and improve classifyTriangle()
+
+2. Author: Xingjian Wu
+
+3. Summary: 
+
+- as the table above shows
+
+5. “I affirm that I will not give or receive any unauthorized help on this assignment, and that all work will be my own.”
+
+
+
