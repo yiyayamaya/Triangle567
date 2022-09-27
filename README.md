@@ -35,3 +35,13 @@ testing the improved classifyTriangle() implementation
 | testScalene1 | 2, 3, 4       |  "Scalene"   |   "Scalene"  |  Pass   |
 
 ___
+
+
+
+| Test ID            | Test Run 1 | Test Run2 |
+|--------------------|------------|-----------|
+| Tests Planned  | 10         | 10        |
+| Tests Executed  | 10         | 10        |
+| Tests Passed  | 2          | 10        |
+| Defects Found | 5          | 0         |
+| Defects Fixed | 0          | 5         |
