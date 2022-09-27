@@ -9,7 +9,8 @@ The primary goal of this file is to demonstrate a simple unittest implementation
 
 import unittest
 
-from TriangleOriginal import classifyTriangle
+#from TriangleOriginal import classifyTriangle
+from TriangleImproved import classifyTriangle
 
 
 # This code implements the unit test functionality
