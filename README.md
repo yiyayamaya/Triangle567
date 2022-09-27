@@ -1,5 +1,6 @@
 # Triangle567
 
+[![build status of master](https://travis-ci.org/yiyayamaya/Triangle567.svg?branch=main)](https://travis-ci.org/yiyayamaya/Triangle567)
 ___
 
 testing the initial classifyTriangle() implementation
@@ -70,4 +71,3 @@ Report
 
 
 
-[![build status of master](https://travis-ci.org/yiyayamaya/Triangle567.svg?branch=master)](https://travis-ci.org/yiyayamaya/Triangle567)
